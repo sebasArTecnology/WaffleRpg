@@ -1,0 +1,8 @@
+{
+    "thumbnail" : "",
+    "title" : "{} profile card",
+    "description" : "Here you'll see all your character information",
+    "color" : "0x36393F",
+    "inline" : true,
+    "content" : {}
+}
